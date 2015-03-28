@@ -1,0 +1,14 @@
+/auth.h/1.1.1.2/Tue Oct  2 09:36:10 2001/-ko/
+/clnt.h/1.1.1.4/Mon Dec  9 14:15:30 2002/-ko/
+/debug.h/1.1.1.1/Mon Jul  9 00:39:18 2001/-ko/
+/msg_prot.h/1.1.1.1/Mon Jul  9 00:39:18 2001/-ko/
+/sched.h/1.1.1.3/Mon Dec  9 14:15:30 2002/-ko/
+/stats.h/1.1.1.2/Tue Oct  2 09:36:10 2001/-ko/
+/svc.h/1.1.1.2/Mon Dec  9 14:15:30 2002/-ko/
+/svcauth.h/1.1.1.1/Mon Jul  9 00:39:18 2001/-ko/
+/svcsock.h/1.1.1.2/Mon Dec  9 14:15:30 2002/-ko/
+/timer.h/1.1.1.1/Mon Dec  9 14:15:30 2002/-ko/
+/types.h/1.1.1.3/Mon Dec  9 14:15:30 2002/-ko/
+/xdr.h/1.1.1.3/Mon Dec  9 14:15:30 2002/-ko/
+/xprt.h/1.1.1.5/Mon Dec  9 14:15:30 2002/-ko/
+D

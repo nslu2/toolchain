@@ -1,0 +1,17 @@
+/dma.h/1.1.1.1/Tue Oct  2 09:35:57 2001/-ko/
+/hardware.h/1.1.1.1/Tue Oct  2 09:35:57 2001/-ko/
+/ide.h/1.1.1.2/Wed Sep 11 11:32:43 2002/-ko/
+/io.h/1.1.1.1/Tue Oct  2 09:35:57 2001/-ko/
+/irq.h/1.1.1.1/Tue Oct  2 09:35:57 2001/-ko/
+/irqs.h/1.1.1.1/Tue Oct  2 09:35:57 2001/-ko/
+/keyboard.h/1.1.1.2/Mon Jan  7 23:15:59 2002/-ko/
+/memory.h/1.2/Fri Feb 14 05:29:24 2003/-ko/
+/param.h/1.1.1.1/Tue Oct  2 09:35:57 2001/-ko/
+/serial.h/1.1.1.1/Tue Oct  2 09:35:57 2001/-ko/
+/serial_reg.h/1.1.1.1/Tue Oct  2 09:35:57 2001/-ko/
+/system.h/1.2/Fri Feb 14 05:29:25 2003/-ko/
+/time.h/1.1.1.1/Tue Oct  2 09:35:57 2001/-ko/
+/timex.h/1.1.1.1/Tue Oct  2 09:35:57 2001/-ko/
+/uncompress.h/1.1.1.2/Wed Sep 11 11:32:43 2002/-ko/
+/vmalloc.h/1.1.1.1/Tue Oct  2 09:35:57 2001/-ko/
+D

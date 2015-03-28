@@ -1,0 +1,3 @@
+Configuring for a i686-pc-linux-gnu host.
+Copying linux-2.4.x/include to /usr/local/arm-linux/sys-include
+../configure: line 193: cd: linux-2.4.x/include: No such file or directory
